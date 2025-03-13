@@ -19,7 +19,7 @@ for (let i = 0; i < ownerlist.length; i += 2) {
         true                        
     ];
     global.owner.push(owner);
-}
+}Silva~c9p10JAB#gG15nRqCDSzVtSk1gVpg9SNaM0O6hElcFpPWDNI4USE
 
 //global.pairingNumber = "" //put your bot number her
 
